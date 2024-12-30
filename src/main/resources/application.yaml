@@ -1,0 +1,5 @@
+server:
+  port: 9098
+app:
+  woodshop:
+    url: "http://localhost:8080"
