@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.sopra.opel</groupId>
 	<artifactId>furniturestore</artifactId>
-	<version>1.0.0</version>
+	<version>${env.GITHUB_REF_NAME}</version>
 	<name>furniturestore</name>
 	<description>Furniture Store</description>
 
